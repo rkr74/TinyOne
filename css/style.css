@@ -76,6 +76,9 @@ header {
 	font-size: 42px;
 	color: #010101;
 }
+.s_icon i:hover {
+	color: white;
+}
 .s_img {}
 .s_img img {}
 /*slider end
