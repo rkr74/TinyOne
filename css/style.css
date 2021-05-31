@@ -177,6 +177,9 @@ header {
 	font-size: 42px;
 	color: #fcdb00;
 }
+.social_icon i:hover{
+	color: white;
+}
 /*contact end*/
 
 /*footer start*/
